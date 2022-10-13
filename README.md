@@ -2,27 +2,36 @@
 A simple python module to write programs in Bangla (phonetic)
 # Installation
 open your terminal or cmd and type the following commands
-```pip install pytbangla ```
+```
+pip install pytbangla
+
+```
 # How to use
 To use this module , first of all you have to import computer from pytbangla to your python file or project.
 
-``` from pytbangla import computer ```
+``` 
+from pytbangla import computer
+
+```
 And then you can use the simple basic functions 
-``` computer.lekho("hello world")  
-    computer.bolo("hello user")  
-    computer.shuno() 
-    computer.input_nao() 
-    computer.hishab_koro_rectangular_area(l,w) 
-    computer.hishab_koro_square_area(a) 
-    computer.hishab_koro_triangle_area(l,h) 
-    computer.hishab_koro_circular_area_diametre(d) 
-    computer.hishab_koro_circular_area_radius(r) 
-    computer.hishab_kore_bolo_rectangular_area(l,w) 
-    computer.hishab_kore_bolo_square_area(a) 
-    computer.hishab_kore_bolo_triangle_area(l.h) 
-    computer.hishab_kore_bolo_circular_area_diametre(d) 
-    computer.hishab_kore_bolo_circular_area_radius(r) 
-    computer.sum(x,y) ```
+``` 
+computer.lekho("hello world")  
+computer.bolo("hello user")  
+computer.shuno() 
+computer.input_nao() 
+computer.hishab_koro_rectangular_area(l,w) 
+computer.hishab_koro_square_area(a) 
+computer.hishab_koro_triangle_area(l,h) 
+computer.hishab_koro_circular_area_diametre(d) 
+computer.hishab_koro_circular_area_radius(r) 
+computer.hishab_kore_bolo_rectangular_area(l,w) 
+computer.hishab_kore_bolo_square_area(a) 
+computer.hishab_kore_bolo_triangle_area(l.h) 
+computer.hishab_kore_bolo_circular_area_diametre(d) 
+computer.hishab_kore_bolo_circular_area_radius(r) 
+computer.sum(x,y) 
+
+```
 # Explanation
 The function lekho() is used to print something 
 The function bolo() is used to make the computer say something 
