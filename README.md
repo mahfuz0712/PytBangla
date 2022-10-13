@@ -33,7 +33,8 @@ computer.sum(x,y)
 
 ```
 # Explanation
-The function lekho() is used to print something 
+The function lekho() is used to print something.
+
 The function bolo() is used to make the computer say something 
 The function shuno() is used to make the computer listen to you 
 The function input_nao() is used to take inputs from the user
