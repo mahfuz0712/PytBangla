@@ -35,13 +35,13 @@ computer.sum(x,y)
 # Explanation
 The function lekho() is used to print something.
 
-The function bolo() is used to make the computer say something 
-The function shuno() is used to make the computer listen to you 
-The function input_nao() is used to take inputs from the user
+The function bolo() is used to make the computer say something. 
+The function shuno() is used to make the computer listen to you. 
+The function input_nao() is used to take inputs from the user.
 The function hishab_koro_rectangular_area() has two parameters. one is 'l' and the other is 'w' and 'l' stands for lenght of the rectangle and 'w' stands for width of the rectangle. this function will calculate the rectangualar area and give an output of the result.
 The function hishab_koro_square_area() has one parameter and that is 'a' which stands for area and this function will calculate the area of a square  and give an output of the result.
 The function hishab_koro_triangle_area() has two parameters. one is  'l' (length) and the other is 'h' (height) of the triangle. 
-The functions hishab_koro_circular_area_diamtre() has one parameter 'd' (diametre) and this will calculate the area of the circle based on the diametre
+The functions hishab_koro_circular_area_diamtre() has one parameter 'd' (diametre) and this will calculate the area of the circle based on the diametre.
 The function hishab_koro_circular_area_radius() has one parameter 'r' (radius) and this will calculate the area of the circle based on the radius.
 The rest of the fucntions that has the keyword "bolo" does tha same works as the functions mentioned above but istead of giving a text based output this says the result. 
 
