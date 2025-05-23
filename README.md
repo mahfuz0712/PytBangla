@@ -1,5 +1,6 @@
 
-# PytBangla 🐍🇧🇩
+
+![Alt Text](images/logo.png)
 
 **PytBangla** is a Python library that brings a touch of Bengali flavor to programming, offering tools for speech interaction, file management, calculations, and email automation using Bengali-named methods. It's designed to be friendly, intuitive, and culturally resonant for native Bangla speakers who love to code.
 
