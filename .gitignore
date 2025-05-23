@@ -1,0 +1,7 @@
+.venv-windows/
+build/
+dist/
+PytBangla.egg-info/
+test.py
+requirements.txt
+updateToken.txt
