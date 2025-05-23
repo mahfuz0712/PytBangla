@@ -35,7 +35,7 @@ Full-featured file manager:
 ## Installation 📦
 
 ```bash
-pip install speechrecognition pyttsx3 pyautogui
+pip install pytbangla
 ```
 
 > Note: `pyaudio` may need to be installed separately depending on your OS.
