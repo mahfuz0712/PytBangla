@@ -1,7 +1,10 @@
+# imports start
 from setuptools import setup, find_packages  # type: ignore
 import os
+# imports end
 
-VERSION = '1.0.4'
+# Metadata about the package
+VERSION = '1.0.5'
 DESCRIPTION = 'Simple python library to write programs in bangla language'
 
 # Read the content of README.md
@@ -24,21 +27,14 @@ setup(
         'requests', 'beautifulsoup4', 'opencv-python', 'numpy', 'pillow',
     ],
     keywords=[
-        'speech recognition', 'text to speech', 'take command',
-        'A.I system', 'A.i Assistant', 'personal assistant',
-        'mahfuz rahman', 'how to make personal assistant using python',
-        'python personal assistant', 'CommandTaker',
-        'Command Taker', 'command taker', 'python in bangla', 'programming',
-        'Computer Science & Engineering', 'Python Organization', 'Django',
-        'Flask', 'tkinter', 'java', 'python', 'kotlin', 'web development',
-        'app development', 'django developer', 'python bangladesh community',
-        "what is Python", 'What is coding', 'What is programming',
-        'what is computer', 'what is computer science', 'Mango', 'grape',
-        'PytBangla', 'python in bangla'
+        'speech recognition', 'text to speech', 'take command','command taker', 'python in bangla', 'programming','Python Organization',
+        'Django','Flask', 'tkinter',  'python', 'web development','app development', 'django developer', 'python bangladesh community',
+        "what is Python", 'What is coding', 'What is programming','PytBangla',
     ],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: Developers",
+        "Intended Audience :: Software Developers",
+        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Operating System :: Microsoft :: Windows"
     ],
