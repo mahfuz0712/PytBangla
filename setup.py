@@ -20,7 +20,8 @@ setup(
     include_package_data=True,
     install_requires=[
         'speechrecognition', 'pyttsx3', 'pyaudio', 'pyautogui', 'pywhatkit',
-        'wikipedia', 'pyjokes', 'secure-smtplib',
+        'wikipedia', 'pyjokes', 'secure-smtplib', 'customtkinter', 'pandas',
+        'requests', 'beautifulsoup4', 'opencv-python', 'numpy', 'pillow',
     ],
     keywords=[
         'speech recognition', 'text to speech', 'take command',
