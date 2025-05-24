@@ -27,13 +27,12 @@ setup(
         'requests', 'beautifulsoup4', 'opencv-python', 'numpy', 'pillow',
     ],
     keywords=[
-        'speech recognition', 'text to speech', 'take command','command taker', 'python in bangla', 'programming','Python Organization',
-        'Django','Flask', 'tkinter',  'python', 'web development','app development', 'django developer', 'python bangladesh community',
-        "what is Python", 'What is coding', 'What is programming','PytBangla',
+        'speech recognition', 'text to speech',  'python in bangla', 'programming','Django','Flask', 'tkinter',  'python',
+        'web development','app development', 'django developer', 'python bangladesh community',"what is Python", 'PytBangla',
     ],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: Software Developers",
+        "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Operating System :: Microsoft :: Windows"
