@@ -1,7 +1,9 @@
 .venv-windows/
 build/
 dist/
+pytbangla/ui.py
 PytBangla.egg-info/
-test.py
 requirements.txt
+test.py
 updateToken.txt
+MANIFEST.in
